@@ -85,9 +85,13 @@ python level3.py
 🕹️ Sample Gameplay
 
 1 | 2 | 3
+
 --+---+--
+
 4 | 5 | 6
+
 --+---+--
+
 7 | 8 | 9
 
 Player X, choose position (1-9): 5
